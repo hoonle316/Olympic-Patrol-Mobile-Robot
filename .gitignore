@@ -1,0 +1,12 @@
+# ROS2 colcon build 디렉토리
+build/
+install/
+log/
+
+# Python 캐시
+__pycache__/
+*.pyc
+
+# 기타 백업 파일
+*.swp
+*.bak
